@@ -15,6 +15,6 @@ metadata:
 spec:
   dependsOn:
     - provider: xpkg.upbound.io/upbound/provider-aws-s3
-      version: ">=v1.3.0"
+      version: ">=v1.1.1"
   crossplane:
     version: ">=v1.15.1-0"
